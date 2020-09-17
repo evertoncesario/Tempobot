@@ -20,3 +20,6 @@
 * [Setup]()
     * [Setup do bot no Telegram](Setup/setup_telegram.md)
     * [Configurando os usuários](Setup/setup_user_elasticsearch.md)
+
+
+* [Teste](teste.md)
